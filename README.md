@@ -10,4 +10,5 @@ feito em ARM
 ---
 
 https://en.wikipedia.org/wiki/INT_10H </br>
-https://en.wikipedia.org/wiki/BIOS_interrupt_call
+https://en.wikipedia.org/wiki/BIOS_interrupt_call </br>
+https://www.qemu.org/docs/master/system/target-i386.html
